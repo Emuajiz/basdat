@@ -167,18 +167,6 @@ INSERT INTO Dependent VALUES
     ('E013','Tina','F','17-Dec-2005','DAUGHTER'),
     ('E014','Ayu','F','08-Dec-1988','WIFE'),
     ('E014','Didiet','M','05-Dec-2006','SON'),
-    ('E015','Nita','F','25-Jan-1987','WIFE');,'HUSBAND'),
-    ('E002','Roy','M','15-Dec-2006','SON'),
-    ('E003','Roni','M','23-AUG-1985','HUSBAND'),
-    ('E003','Dewi','F','01-Jan-2006','DAUGHTER'),
-    ('E004','Susi','F','05-Sep-1987','WIFE'),
-    ('E004','Rani','M','10-Feb-2007','DAUGHTER'),
-    ('E011','Dina','F','13-Jan-1987','WIFE'),
-    ('E011','Riko','M','21-Mar-2006','SON'),
-    ('E013','Rini','F','15-Aug-1987','WIFE'),
-    ('E013','Tina','F','17-Dec-2005','DAUGHTER'),
-    ('E014','Ayu','F','08-Dec-1988','WIFE'),
-    ('E014','Didiet','M','05-Dec-2006','SON'),
     ('E015','Nita','F','25-Jan-1987','WIFE');
 
 -- 15. CONTOH UPDATE DATA
