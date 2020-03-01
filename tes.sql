@@ -151,54 +151,6 @@ INSERT INTO Works_On VALUES
     ('E011',3,88);
 
 -- 14. INSERT DATA DEPENDENT
-INSERT INTO Department VALUES
-    (1,'HRD','E001','09-Jan-2002'),
-    (2,'FINANCE','E002','27-Feb-2003'),
-    (3,'HUMAS','E003','30-May-2006'),
-    (4,'PRODUKSI','E004','08-Mar-2005');
-
--- 11. INSERT DATA DEPT_LOCATION
-
-INSERT INTO Dept_Locations VALUES
-    (1,'Darmaga'),(3,'Darmaga'),(2,'Darmaga'),(4,'Baranang Siang');
-
--- 12. INSERT DATA PROJECT
-
-INSERT INTO Project VALUES
-    (1,'AAA','Bogor',1),(2,'BBB','Jakarta',2),
-    (3,'CCC','Tangerang',2),(4,'DDD','Bekasi',2),
-    (5,'EEE','Depok',3),(6,'FFF','Bogor',3),
-    (7,'GGG','Tangerang',4),(8,'HHH','Jakarta',4);
-
--- 13. INSERT DATA WORKS ON 
-
-INSERT INTO Works_On VALUES
-    ('E001',1,90),
-    ('E001',2,98),
-    ('E002',2,55),
-    ('E002',3,78),
-    ('E003',3,53),
-    ('E003',4,77),
-    ('E004',4,77),
-    ('E004',5,98),
-    ('E004',7,85),
-    ('E004',8,68),
-    ('E005',5,57),
-    ('E005',6,87),
-    ('E006',7,45),
-    ('E006',6,87),
-    ('E007',7,40),
-    ('E007',8,88),
-    ('E008',1,78),
-    ('E008',8,87),
-    ('E009',1,88),
-    ('E009',2,65),
-    ('E010',2,34),
-    ('E010',3,78),
-    ('E011',1,68),
-    ('E011',3,88);
-
--- 14. INSERT DATA DEPENDENT
 
 INSERT INTO Dependent VALUES
     ('E001','Rita','F','18-Sep-2005','DAUGHTER'),
